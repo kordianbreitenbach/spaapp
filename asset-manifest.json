@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spaapp/static/css/main.6f31a573.css",
+    "main.js": "/spaapp/static/js/main.1881f74e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/spaapp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/spaapp/index.html",
+    "main.6f31a573.css.map": "/spaapp/static/css/main.6f31a573.css.map",
+    "main.1881f74e.js.map": "/spaapp/static/js/main.1881f74e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/spaapp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f31a573.css",
+    "static/js/main.1881f74e.js"
+  ]
+}
